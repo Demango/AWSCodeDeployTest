@@ -7,7 +7,7 @@
 - html classes use kebab-case
 - files end in a new line
 - line length < ~160
-- conditionals / function calls open block on own line * 
+- conditionals (and others where applies) open block on own line * 
 
 
 *:   
