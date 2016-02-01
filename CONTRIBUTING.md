@@ -1,7 +1,8 @@
 #Code style#
 
 - variable, function names = camelCase
-- php class names = PascalCase
+- php class names, database table names = PascalCase
+- database pivot tables use "_"
 - indentation = 4 spaces
 - use “jQuery” instead of “$”
 - html classes use kebab-case
