@@ -2,6 +2,7 @@
 
 - variable, function names = camelCase
 - php class names, database table names = PascalCase
+- database tables plural ("Users" not "User")
 - database pivot tables use "_"
 - indentation = 4 spaces
 - use “jQuery” instead of “$”
